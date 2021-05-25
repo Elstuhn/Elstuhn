@@ -1,5 +1,5 @@
 # Hi there I am Elston and I love coding! 👋
-## Just trying to be the best haha
+## Just here for fun :3 
 ###### :boom: Coding gives me freedom and I can create anything I like! :boom:
 ###### Python, JS, CSS, HTML, C++, SQL, interested in game deving and AI
 
