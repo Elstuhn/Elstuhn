@@ -15,6 +15,8 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=highcontrast)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
+
+#Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elstuhn&repo=github-readme-stats)](https://github.com/Elstuhn/github-readme-stats)
 
 
