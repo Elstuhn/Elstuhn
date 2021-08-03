@@ -1,7 +1,7 @@
 # Hi there I am Elston and I love coding! 👋
-## Just here for fun :3 
-###### :boom: Coding gives me freedom and I can create anything I like! :boom:
-###### Python, JS, CSS, HTML, C++, SQL, interested in game deving and AI
+## Just a weird person that likes programming
+###### Python, JS, CSS, HTML, C++, SQL, Game Dev
+###### Interested in AI
 
 > **[My Repl](https://repl.it/@elston1703)**
 > 
@@ -10,3 +10,6 @@
 > **[My LinkedIn](https://www.linkedin.com/in/elston-tan-59a7881ba/)**
 > 
 > **[My Hackerrank Profile](https://www.hackerrank.com/Brown_Lightning?hr_r=1)**
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=radical)
