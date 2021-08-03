@@ -16,7 +16,9 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
 <br>
+# My Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elstuhn&repo=FileMonster)](https://github.com/Elstuhn/FileMonster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elstuhn&repo=mining_game)](https://github.com/Elstuhn/mining_game)
 
 
 
