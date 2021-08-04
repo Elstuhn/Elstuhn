@@ -12,7 +12,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # Your github token
           token: ${{ secrets.METRICS_TOKEN }}
     runs-on: ubuntu-latest
 
