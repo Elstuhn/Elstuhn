@@ -17,7 +17,7 @@
 <br>
 # Fancy Statistics Of Me
 ![Metrics](https://metrics.lecoq.io/Elstuhn?template=classic&config.timezone=Asia%2FSingapore)
-![Test](https://metrics.lecoq.io/about/Elstuhn)
+![Metrics](https://github.com/Elstuhn/Elstuhn/blob/main/github-metrics.svg)
 
 
 
