@@ -5,7 +5,7 @@
 
 > **[My Repl](https://repl.it/@elston1703)**
 > 
-> **My Business Email: elstuhnofficial@gmail.com**
+> **[My Business Email](elstuhnofficial@gmail.com)**
 > 
 > **[My LinkedIn](https://www.linkedin.com/in/elston-tan-59a7881ba/)**
 > 
@@ -17,6 +17,7 @@
 <br>
 # Fancy Statistics Of Me
 ![Metrics](https://metrics.lecoq.io/Elstuhn?template=classic&config.timezone=Asia%2FSingapore)
+![Test](https://metrics.lecoq.io/about/Elstuhn)
 
 
 
