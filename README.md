@@ -16,8 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
 <br>
 # Fancy Statistics Of Me
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
-
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 
 
