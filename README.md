@@ -16,9 +16,5 @@
 <br>
 # Fancy Statistics Of Me
 ![Metrics](https://github.com/Elstuhn/Elstuhn/blob/master/github-metrics.svg)
-![Habits](https://github.com/Elstuhn/Elstuhn/blob/master/metrics.plugin.habits.svg)
-![Achievements](https://github.com/Elstuhn/Elstuhn/blob/master/metrics.plugin.achievements.svg)
-![Activity](https://github.com/Elstuhn/Elstuhn/blob/master/metrics.plugin.activity.svg)
-
 
 
