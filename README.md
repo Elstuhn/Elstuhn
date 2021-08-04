@@ -11,11 +11,9 @@
 > 
 > **[My Hackerrank Profile](https://www.hackerrank.com/Brown_Lightning?hr_r=1)**
 
-<br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=highcontrast)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
-<br>
 <br>
 # Fancy Statistics Of Me
 ![Metrics](https://metrics.lecoq.io/Elstuhn?template=classic&config.timezone=Asia%2FSingapore)
