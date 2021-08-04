@@ -11,16 +11,14 @@
 > 
 > **[My Hackerrank Profile](https://www.hackerrank.com/Brown_Lightning?hr_r=1)**
 
-# My Stats
+<br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=highcontrast)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
 <br>
-# My Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elstuhn&repo=FileMonster)](https://github.com/Elstuhn/FileMonster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elstuhn&repo=mining_game)](https://github.com/Elstuhn/mining_game)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elstuhn&repo=tools)](https://github.com/Elstuhn/tools)
+# Fancy Statistics Of Me
+![Metrics](https://metrics.lecoq.io/about/Elstuhn)
 
 
 
