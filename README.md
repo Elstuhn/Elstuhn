@@ -1,5 +1,4 @@
-# Hi there I am Elston and I love coding! 👋
-###### Just a weird person that likes programming
+# Just a weird person that likes programming :)
 ###### Python, JS, CSS, HTML, C++, SQL, Game Dev
 ###### Interested in AI
 
