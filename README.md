@@ -4,7 +4,7 @@
 
 > **[My Repl](https://repl.it/@elston1703)**
 > 
-> **[My Business Email](elstuhnofficial@gmail.com)**
+> **My Business Email: elstuhnofficial@gmail.com**
 > 
 > **[My LinkedIn](https://www.linkedin.com/in/elston-tan-59a7881ba/)**
 > 
