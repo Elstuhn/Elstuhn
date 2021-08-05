@@ -10,7 +10,7 @@
 > 
 > **[My Hackerrank Profile](https://www.hackerrank.com/Brown_Lightning?hr_r=1)**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=highcontrast)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=highcontrast&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
 <br>
