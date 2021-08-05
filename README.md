@@ -17,7 +17,7 @@
 <a href="https://github.com/Elstuhn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact&theme=material-palenight" />
 </a>
-<br>
+
 # Detailed Statistics
 ![Metrics](https://github.com/Elstuhn/Elstuhn/blob/master/github-metrics.svg)
 
