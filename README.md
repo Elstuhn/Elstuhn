@@ -10,9 +10,13 @@
 > 
 > **[My Hackerrank Profile](https://www.hackerrank.com/Brown_Lightning?hr_r=1)**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&theme=highcontrast&count_private=true)
+<a href="https://github.com/Elstuhn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Elstuhn's github stats" />
+</a>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact)](https://github.com/Elstuhn/github-readme-stats)
+<a href="https://github.com/Elstuhn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact&theme=material-palenight" />
+</a>
 <br>
 # Detailed Statistics
 ![Metrics](https://github.com/Elstuhn/Elstuhn/blob/master/github-metrics.svg)
