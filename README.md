@@ -1,4 +1,4 @@
-# Just a weird person that likes programming :)
+# [![Typing SVG] (https://readme-typing-svg.herokuapp.com?lines=Hello+There+I'm+Elstuhn!)] (https://git.io/typing-svg)
 ###### Python, JS, CSS, HTML, C++, SQL, Game Dev
 ###### Interested in AI
 
