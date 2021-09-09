@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&vCenter=true&lines=Hello+There+I%E2%80%99m+Elstuhn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&lines=Hello+There+I%E2%80%99m+Elstuhn)](https://git.io/typing-svg)
 ###### Python, JS, CSS, HTML, C++, SQL, Game Dev
 ###### Interested in AI
 
