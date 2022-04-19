@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Elstuhn.+)](https://git.io/typing-svg)
 ###### Python, JS, CSS, HTML, C++, SQL, Deep Learning, Reinforcement Learning
 
-> **[My Repl](https://repl.it/@elston1703)**
-> 
 > **My Business Email: elstuhnofficial@gmail.com**
+> 
+> **[My Repl](https://repl.it/@elston1703)**
 > 
 > **[My LinkedIn](https://www.linkedin.com/in/elston-tan-59a7881ba/)**
 > 
