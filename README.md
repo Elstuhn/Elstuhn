@@ -19,6 +19,3 @@
 
 # Detailed Statistics
 ![Metrics](https://github.com/Elstuhn/Elstuhn/blob/master/github-metrics.svg)
-![Elstuhn's github stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&custom_title=Elston's Statistics&include_all_commits=true)
-
-
