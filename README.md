@@ -12,6 +12,7 @@
 <a href="https://github.com/Elstuhn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&custom_title=Elston's Statistics&include_all_commits=true" alt="Elstuhn's github stats" />
 </a>
+![Elstuhn's github stats](https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&custom_title=Elston's Statistics&include_all_commits=true)
 <br>
 <a href="https://github.com/Elstuhn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elstuhn&layout=compact&theme=material-palenight&count_private=true" />
