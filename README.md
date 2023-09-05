@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Elstuhn.+)](https://git.io/typing-svg)
-###### Python, JS, CSS, HTML, C++, SQL, Deep Learning, Reinforcement Learning
+###### Python, JS, CSS, HTML, C++, SQL, Deep Learning, Machine Learning
+###### Aspiring PhD AI Researcher
 
 > **[Business Email](mailto:elstuhnofficial@gmail.com)**
 > 
