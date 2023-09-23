@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Elstuhn.+)](https://git.io/typing-svg)
-###### Python, Computer Vision, Machine Learning, Reinforcement Learning, Business
-###### Aspiring PhD AI Researcher
+##### Python, Computer Vision, Machine Learning, Reinforcement Learning, Business
+##### Aspiring PhD AI Researcher
 
 > **[Business Email](mailto:elstuhnofficial@gmail.com)**
 > 
