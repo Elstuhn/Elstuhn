@@ -4,11 +4,11 @@
 
 > **[Business Email](mailto:elstuhnofficial@gmail.com)**
 > 
-> **[My Repl](https://repl.it/@elston1703)**
+> **[My OpenReview](https://openreview.net/profile?id=~Elston_Tan1)**
 > 
 > **[My LinkedIn](https://www.linkedin.com/in/elston-tan-59a7881ba/)**
 > 
-> **[My Website](https://website-elston.herokuapp.com)**
+> **[My Website](https://elstuhn.xyz)**
 
 <a href="https://github.com/Elstuhn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&custom_title=Elston's%20Statistics&include_all_commits=true" alt="My github stats"/>
