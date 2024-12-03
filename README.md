@@ -2,13 +2,13 @@
 ###### Python, Computer Vision, Machine Learning, Reinforcement Learning, Business
 ###### Aspiring PhD AI Researcher
 
-> **[Business Email](mailto:elstuhnofficial@gmail.com)**
+> **[Business Email](mailto:elston1703@gmail.com)**
 > 
 > **[My OpenReview](https://openreview.net/profile?id=~Elston_Tan1)**
 > 
-> **[My LinkedIn](https://www.linkedin.com/in/elston-tan-59a7881ba/)**
+> **[My LinkedIn](https://www.linkedin.com/in/elstuhn/)**
 > 
-> **[My Website](https://elstuhn.xyz)**
+> **[My Website](https://elston.netlify.app)**
 
 <a href="https://github.com/Elstuhn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elstuhn&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&custom_title=Elston's%20Statistics&include_all_commits=true" alt="My github stats"/>
