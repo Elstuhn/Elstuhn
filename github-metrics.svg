@@ -236,7 +236,7 @@
                     <rect mask="url(#languages-bar)" x="390.6829167263697" y="0" width="49.89330423372955" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="440.5762209600992" y="0" width="11.111514345299586" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="451.6877353053988" y="0" width="4.025531398351509" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.7132667037503" y="0" width="1.6970208154354711" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.7132667037503" y="0" width="1.6970208154354711" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="457.4102875191858" y="0" width="1.259669538458843" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="458.66995705764464" y="0" width="0.7074757741418568" height="8" fill="#a270ba"/>
                     <rect mask="url(#languages-bar)" x="459.3774328317865" y="0" width="0.6225671682135216" height="8" fill="#844FBA"/>
@@ -268,7 +268,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1683,7 +1683,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.29m out of 227m repositories</span>
+                                    <span class="gh">ranked 2.29m out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1833,7 +1833,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 20:20:15 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 21:22:27 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
