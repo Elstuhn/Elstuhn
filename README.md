@@ -2,7 +2,7 @@
 ###### Computer Vision, NLP, Reinforcement Learning, Business, Spatiotemporal Methods, Full-Stack Development
 ###### Aspiring PhD AI Researcher
 
-> **[Business Email](mailto:elston1703@gmail.com)**
+> **[Email me for collaborations](mailto:elston1703@gmail.com)**
 > 
 > **[My OpenReview](https://openreview.net/profile?id=~Elston_Tan1)**
 >
