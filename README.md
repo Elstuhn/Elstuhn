@@ -5,6 +5,8 @@
 > **[Business Email](mailto:elston1703@gmail.com)**
 > 
 > **[My OpenReview](https://openreview.net/profile?id=~Elston_Tan1)**
+>
+> **[My Papers](https://scholar.google.com/citations?user=G8leC1IAAAAJ&hl=en)**
 > 
 > **[My LinkedIn](https://www.linkedin.com/in/elstuhn/)**
 > 
