@@ -9,7 +9,7 @@
 >
 > **[My Papers](https://scholar.google.com/citations?user=G8leC1IAAAAJ&hl=en)**
 > 
-> **![image](https://github.com/user-attachments/assets/55b10cf5-53c0-4466-8b11-851a027bab9d) [My LinkedIn](https://www.linkedin.com/in/elstuhn/)**
+> **[My LinkedIn](https://www.linkedin.com/in/elstuhn/)**
 > 
 > **[My Website](https://elston.netlify.app)**
 
