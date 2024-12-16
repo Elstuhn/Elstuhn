@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Elston.+)](https://git.io/typing-svg)
-###### Computer Vision, NLP, Reinforcement Learning, Business, Spatiotemporal Analysis, Full-Stack Development
+## Fields: Computer Vision, NLP, Reinforcement Learning, Business, Spatiotemporal Analysis, Full-Stack Development
 ###### Aspiring PhD AI Researcher
 
 > **[Email me for collaborations](mailto:elston1703@gmail.com)**
