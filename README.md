@@ -3,7 +3,7 @@
 ### Studying: Spatiotemporal Vision Analysis | Video-Question Answering | Imitation Learning
 ###### Aspiring PhD AI Researcher
 
-> **[Email me for collaborations](mailto:elston1703@gmail.com)**
+> **[Email me for collaborations! :)](mailto:elston1703@gmail.com)**
 > 
 > **[My OpenReview](https://openreview.net/profile?id=~Elston_Tan1)**
 >
