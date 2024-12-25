@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&lines=Hello+There!;I%E2%80%99m+Elston.+)](https://git.io/typing-svg)
+<br/>
 **Fields: Computer Vision | NLP | Reinforcement Learning | Business | Full-Stack Development**
+<br/>
 **Studying: Spatiotemporal Vision Analysis | Video-Question Answering | Imitation Learning**
 ###### Aspiring PhD AI Researcher
 
