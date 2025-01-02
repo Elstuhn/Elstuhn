@@ -2,7 +2,7 @@
 <br/>
 **Fields: Computer Vision | NLP | Reinforcement Learning | Business | Full-Stack Development**
 <br/><br/>
-**Studying: Spatiotemporal Vision Analysis | Video-Question Answering | Imitation Learning**
+**Studying: Spatiotemporal Vision Analysis | Swarm AI | Drone Navigation**
 ###### Aspiring PhD AI Researcher
 
 > **[Email me for collaborations! :)](mailto:elston1703@gmail.com)**
