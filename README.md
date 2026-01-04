@@ -14,7 +14,7 @@
 
 ## Aspiring PhD AI Researcher
 ##### Fields: Computer Vision | NLP | Reinforcement Learning | Business | Full-Stack Development
-##### Studying: SLAM | Adaptive LLMs | Drone Navigation
+##### Studying: SLAM | Adaptive LLMs | Quantum Computing | Test-Time Learning
 
 
 
