@@ -19,7 +19,7 @@
 
 
 ## Reach out to me!
-> 📫 Email me for collaborations or anything: [elston1703@gmail.com](mailto:elston1703@gmail.com)**
+> 📫 **Email me for collaborations or anything:** [elston1703@gmail.com](mailto:elston1703@gmail.com)
 > 
 > **[My OpenReview](https://openreview.net/profile?id=~Elston_Tan1)**
 >
