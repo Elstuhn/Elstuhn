@@ -27,7 +27,9 @@
 > 
 > **[My LinkedIn](https://www.linkedin.com/in/elstuhn/)**
 > 
-> **[My Website](https://elstuhn.com)**
+> **[My Personal Website](https://elstuhn.com)**
+>
+> **[My Second Website](https://elstonindustries.netlify.app)**
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,nextjs,nodejs,pytorch,aws,gcp,docker,anaconda,bun,react)](https://skillicons.dev)
